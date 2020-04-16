@@ -1,0 +1,23 @@
+{
+  "name": "frogkunbot",
+  "version": "1.0.0",
+  "description": "A private discord bot for TK's Community discord server!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "tonkaew131",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "express-glitch-keepalive": "^0.2.0",
+    "ksoft.js": "git+https://git.farfrom.earth/aero/forks/ksoft.js.git",
+    "node-opus": "^0.3.3",
+    "simple-youtube-api": "^5.2.1",
+    "teamtrees-api": "^1.2.0",
+    "ytdl-core": "^1.0.0"
+  }
+}
